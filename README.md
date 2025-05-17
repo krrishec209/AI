@@ -57,3 +57,18 @@ Which course will you start with? Comment below! 👇
 
 
 https://www.linkedin.com/posts/projectmanagementinformation_12-free-ai-courses-that-could-change-your-activity-7291621350861877249-lyjA?utm_source=share&utm_medium=member_desktop
+
+******************
+
+8 github repos you must checkout if you are a software engineer and want to build with GEN AI 🚀 
+
+1. GenAI Agentic Techniques: https://lnkd.in/gTUJWbFX
+2. Huge Collection of LLM Apps: https://lnkd.in/gtvjvhhq
+3. MCP Servers List: https://lnkd.in/gp-zUpQU
+4. Educational Resources: https://lnkd.in/gtj3PtkR
+5. All about LLMs: https://lnkd.in/g2HENxWs
+6. Top Resources to Learn and Tools/Roles: https://lnkd.in/gA5mnWNF
+7. More MCP Servers: https://lnkd.in/gsDr456X
+8. GEN AI apps Collection: https://lnkd.in/g9sWNqrA
+
+   https://www.linkedin.com/posts/arpit-adlakha-30691a101_8-github-repos-you-must-checkout-if-you-are-activity-7329435424408383489-KSAC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARSzbgBGEbWHnTkxyPnkFaeZcnK-pW0lqg
